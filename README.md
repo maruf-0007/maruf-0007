@@ -142,7 +142,14 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
   <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<!--
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
+</p>
+-->
 ---
 
 
