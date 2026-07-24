@@ -127,6 +127,17 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 ---
 
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
