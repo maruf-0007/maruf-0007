@@ -10,118 +10,221 @@
 - ⚡ Fun fact: I enjoy turning ideas into real-world projects and learning something new every day!
 
 -->
-<h2 data-importer="text" align="left">Hey 👋 I'm Maruf</h2>
+# Hey 👋 I'm Maruf
 
-###
+### Computer Science & Engineering Student | Backend Developer | AI/ML Enthusiast
 
-<br clear="both">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I+build+Backend+Applications;I+love+Python+%26+FastAPI;Exploring+AI%2C+ML+%26+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<br clear="both">
+Hi! I'm **Maruf**, a Computer Science & Engineering student who enjoys building software and exploring new technologies.
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+I'm particularly interested in **Backend Development, Artificial Intelligence, Machine Learning, and Data Science**. I enjoy working with Python and building APIs and database-driven applications.
 
-###
+- 🎓 Currently studying **Computer Science & Engineering**
+- 💻 Interested in **Backend Development and Software Engineering**
+- 🐍 Working with **Python, FastAPI, Django, and Flask**
+- 🗄️ Learning and working with **SQL and NoSQL databases**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, and Data Science**
+- 🌱 Continuously improving my **Data Structures & Algorithms** skills
+- 🚀 Interested in building practical and meaningful software projects
+- 🤝 Open to collaborating on interesting **Backend, AI, and Open Source projects**
+- ⚡ Fun fact: I enjoy learning new technologies by building real projects
 
-<div data-importer="socials" align="center">
-  <a href="https://www.facebook.com/marufhasan.maruftuhin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="42" alt="facebook logo"  />
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+</p>
+
+### 🌐 Web Development & Backend
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="Flask" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite" />
+</p>
+
+### 🤖 AI, ML & Data Science
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Amader Krishi AI
+
+An AI-powered agriculture assistance system designed to help farmers with agricultural information and crop-related problems.
+
+**Key Features:**
+- 🤖 AI-powered agricultural chatbot
+- 🇧🇩 Bangla language support
+- 🌱 Crop disease assistance
+- 📷 Image-based crop analysis
+- 🎙️ Voice interaction
+- 🔌 REST API-based backend
+
+**Tech Stack:** Python, FastAPI, MySQL, AI/ML, HTML, CSS, JavaScript
+
+🔗 [View Project](https://github.com/maruf-0007/YOUR-REPO-NAME)
+
+---
+
+### 🛒 E-Shop POS API
+
+A backend-focused Point of Sale API designed to manage products, users, authentication, and sales-related operations.
+
+**Features:**
+- 🔐 User authentication
+- 📦 Product management
+- 🛍️ Sales and inventory operations
+- 🗄️ Database integration
+- 🔌 RESTful API architecture
+
+**Tech Stack:** Python, FastAPI, SQLAlchemy, MySQL, Pydantic
+
+🔗 [View Project](https://github.com/maruf-0007/YOUR-REPO-NAME)
+
+---
+
+### 🏠 Hostel Room Booking System
+
+A system analysis and design project focused on managing hostel rooms and student bookings.
+
+**Features:**
+- 👨‍🎓 Student room booking
+- 🏢 Admin/Manager management
+- 💳 Payment system integration
+- 📊 Data Flow Diagrams
+- 🔗 Entity Relationship Diagram
+- 👥 UML Use Case Diagram
+
+**Methodology:** Waterfall SDLC Model
+
+🔗 [View Project](https://github.com/maruf-0007/YOUR-REPO-NAME)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf-0007&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="180" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-0007&layout=compact&langs_count=8&theme=github_dark&hide_border=false" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=false" height="180" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Improve my Data Structures & Algorithms skills
+- 💻 Become a strong Backend Developer
+- 🐍 Master Python backend development
+- ⚡ Build scalable APIs using FastAPI
+- 🤖 Learn Machine Learning and Artificial Intelligence
+- 🗄️ Improve my database design and optimization skills
+- 🚀 Build and deploy real-world projects
+- 🌍 Contribute to Open Source projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+  <a href="mailto:marufh2894@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/-maruf007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="42" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/-maruf007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="marufh2894@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="42" alt="gmail logo"  />
+
+  <a href="https://www.facebook.com/marufhasan.maruftuhin">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/_maruf007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="42" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/_maruf007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com/invite/marufhasan8596" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="42" alt="discord logo"  />
+
+  <a href="https://x.com/_maruf007">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://x.com/_maruf007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="42" alt="twitter logo"  />
-  </a>
-</div>
 
-###
+</p>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="480" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRic21pNXhtN3h0Zzd5ZHoxNXA4NXNpZWNycXhqZnhpaHV4cjd2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+---
 
-###
+## 👀 Profile Views
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maruf-0007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:maruf-0007?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
 
-###
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
