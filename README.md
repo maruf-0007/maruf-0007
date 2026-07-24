@@ -12,7 +12,6 @@
 -->
 # Hey 👋 I'm Maruf
 
-### Computer Science & Engineering Student | Backend Developer | AI/ML Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I+build+Backend+Applications;I+love+Python+%26+FastAPI;Exploring+AI%2C+ML+%26+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
@@ -40,7 +39,6 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
@@ -50,7 +48,6 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
 </p>
 
-### 🌐 Web Development & Backend
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
@@ -60,7 +57,6 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="Flask" />
 </p>
 
-### 🗄️ Databases
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
@@ -69,7 +65,6 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite" />
 </p>
 
-### 🤖 AI, ML & Data Science
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
@@ -77,7 +72,6 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
 </p>
 
-### ⚙️ Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
@@ -111,11 +105,11 @@ An AI-powered agriculture assistance system designed to help farmers with agricu
 
 **Tech Stack:** Python, FastAPI, MySQL, AI/ML, HTML, CSS, JavaScript
 
-🔗 [View Project](https://github.com/maruf-0007/YOUR-REPO-NAME)
+🔗 [View Project](https://github.com/maruf-0007/AmaderKrishi_AI)
 
 ---
 
-### 🛒 E-Shop POS API
+### 🛒 Ecommerce Sales & Inventory System
 
 A backend-focused Point of Sale API designed to manage products, users, authentication, and sales-related operations.
 
@@ -128,62 +122,29 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 
 **Tech Stack:** Python, FastAPI, SQLAlchemy, MySQL, Pydantic
 
-🔗 [View Project](https://github.com/maruf-0007/YOUR-REPO-NAME)
+🔗 [View Project](https://github.com/maruf-0007/Ecommerce-Sales-Inventory-System)
 
 ---
 
-### 🏠 Hostel Room Booking System
-
-A system analysis and design project focused on managing hostel rooms and student bookings.
-
-**Features:**
-- 👨‍🎓 Student room booking
-- 🏢 Admin/Manager management
-- 💳 Payment system integration
-- 📊 Data Flow Diagrams
-- 🔗 Entity Relationship Diagram
-- 👥 UML Use Case Diagram
-
-**Methodology:** Waterfall SDLC Model
-
-🔗 [View Project](https://github.com/maruf-0007/YOUR-REPO-NAME)
-
----
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf-0007&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="180" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-0007&layout=compact&langs_count=8&theme=github_dark&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-0007&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=false" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-0007&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf-0007&theme=github_dark" alt="Most Commit Language" />
 </p>
-
----
-
-## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
-
-## 🎯 Current Goals
-
-- 📚 Improve my Data Structures & Algorithms skills
-- 💻 Become a strong Backend Developer
-- 🐍 Master Python backend development
-- ⚡ Build scalable APIs using FastAPI
-- 🤖 Learn Machine Learning and Artificial Intelligence
-- 🗄️ Improve my database design and optimization skills
-- 🚀 Build and deploy real-world projects
-- 🌍 Contribute to Open Source projects
 
 ---
+
 
 ## 📫 Connect With Me
 
@@ -212,6 +173,7 @@ A system analysis and design project focused on managing hostel rooms and studen
 </p>
 
 ---
+
 
 ## 👀 Profile Views
 
