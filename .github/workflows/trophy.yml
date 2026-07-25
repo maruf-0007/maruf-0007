@@ -1,8 +1,7 @@
-name: Generate Trophy Card
+name: Generate GitHub Trophy
 
 on:
   schedule:
-    # Run every 12 hours
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
@@ -14,29 +13,35 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     permissions:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
+          output_path: ./trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
           max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: false
-          no-frame: false
 
-      - name: Push trophy.svg to trophy-output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: trophy-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Move trophy to profile folder
+        run: |
+          mkdir -p assets
+          mv trophy.svg assets/trophy.svg
+
+      - name: Commit trophy.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/trophy.svg
+
+          git diff --staged --quiet || git commit -m "Update GitHub trophy"
+
+          git push
