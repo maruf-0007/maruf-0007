@@ -144,11 +144,12 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-0007&theme=github_dark" alt="Maruf's GitHub Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=false" alt="Maruf's GitHub Streak" />
-</p>
+<!-- GitHub Streak -->
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=maruf-0007&theme=github-dark-blue&hide_border=true" alt="Maruf's GitHub Streak" /> </p>
 
 
+---
 
 
 
