@@ -167,11 +167,14 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
--->
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+-->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-0007&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=maruf-0007&theme=gruvbox&hide_border=false)
 
 
 <div data-importer="stats" align="center">
