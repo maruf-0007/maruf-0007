@@ -172,9 +172,7 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 </div>
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-0007&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=maruf-0007&theme=gruvbox&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf-0007&theme=github-dark)](https://git.io/streak-stats)
 
 
 <div data-importer="stats" align="center">
