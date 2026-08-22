@@ -170,7 +170,7 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 
 -->
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
