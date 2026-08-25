@@ -173,8 +173,7 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 </div>
 -->
 
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=maruf-0007&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf-0007&card_width=600&card_height=238)](https://git.io/streak-stats)
 
 
 
