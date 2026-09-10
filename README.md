@@ -105,7 +105,7 @@ An AI-powered agriculture assistance system designed to help farmers with agricu
 
 **Tech Stack:** Python, FastAPI, MySQL, AI/ML, HTML, CSS, JavaScript
 
-🔗 [View Project](https://github.com/maruf-0007/AmaderKrishi_AI)
+🔗 [View Project](https://github.com/marufHtuhin/AmaderKrishi_AI)
 
 ---
 
@@ -122,7 +122,7 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 
 **Tech Stack:** Python, FastAPI, SQLAlchemy, MySQL, Pydantic
 
-🔗 [View Project](https://github.com/maruf-0007/Ecommerce-Sales-Inventory-System)
+🔗 [View Project](https://github.com/marufHtuhin/Ecommerce-Sales-Inventory-System)
 
 ---
 
@@ -130,9 +130,9 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marufHtuhin/marufHtuhin/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marufHtuhin/marufHtuhin/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marufHtuhin/marufHtuhin/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 
@@ -142,7 +142,7 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 ## 📊 GitHub Statistics
 <!--
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-0007&theme=github_dark" alt="Maruf's GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufHtuhin&theme=github_dark" alt="Maruf's GitHub Profile Details" />
 </p>
 
 <br clear="both">
@@ -173,12 +173,12 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 </div>
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf-0007&card_width=860&card_height=243)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marufHtuhin&card_width=860&card_height=243)](https://git.io/streak-stats)
 
 
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/marufHtuhin/marufHtuhin/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
@@ -217,7 +217,7 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maruf-0007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=marufHtuhin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
